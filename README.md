@@ -1,4 +1,4 @@
-# bissect-playground
+# bisect-playground
 
 Generates a random git tree, creating random files and random commits.
 
